@@ -57,7 +57,7 @@ try {
   } else 
   
   {
-    res.status(200).json(d);
+    res.status(200).json(catData);
   }
 
 } catch (error) {
